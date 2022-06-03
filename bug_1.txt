@@ -1,0 +1,19 @@
+ID #001
+Summary:
+in the description of the product text have tags
+Description:
+On the web site www.bandicam.com if chuse english language in the description goods have tags
+Step to reproduce:
+1. Open website www.bandicam.com
+2. Choose English
+3. Select a section "shop"
+4. Choose a good backpack 'Diarstars 852'
+
+Actual result:
+In the more information tab all description are in the tags
+
+Expected result:
+in the more information tab all description in english witout tabs
+
+Invironment:
+Google chrome 96.0.4664.110 (64) Windows 11
